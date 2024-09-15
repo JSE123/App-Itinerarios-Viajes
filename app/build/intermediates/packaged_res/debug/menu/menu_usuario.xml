@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/Agregar_itinerario"
+        android:title="Agregar itinerario"
+        app:showAsAction="never"
+        />
+    <item
+        android:id="@+id/cerrar_sesion"
+        android:title="Cerrar sesion"
+        app:showAsAction="never"
+        />
+
+</menu>

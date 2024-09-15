@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/itemBusqueda_menu"
+        android:title="BUSCAR"
+        android:icon="@drawable/icon_buscar"
+    />
+    <item
+        android:id="@+id/itemInicio_menu"
+        android:title="INICIO"
+        android:icon="@drawable/icon_inicio"
+        />
+    <item
+        android:id="@+id/itemItinerarios_menu"
+        android:title="TUS ITINERARIOS"
+        android:icon="@drawable/icon_itineraios"
+        />
+</menu>

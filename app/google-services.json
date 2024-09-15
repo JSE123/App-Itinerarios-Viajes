@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "358875363873",
+    "project_id": "pruebasfirebase9869",
+    "storage_bucket": "pruebasfirebase9869.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:358875363873:android:bf66e81aa534eff2e8c160",
+        "android_client_info": {
+          "package_name": "com.example.turismo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDu6i9-smVo39jcBEELAarZ_wpCT1M824Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

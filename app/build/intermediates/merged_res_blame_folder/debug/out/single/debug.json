@@ -1,0 +1,182 @@
+[
+    {
+        "merged": "C:\\Users\\jse\\.gradle\\daemon\\7.5\\com.example.turismo.app-merged_res-34:\\layout_activity_crear_destino.xml.flat",
+        "source": "C:\\Users\\jse\\.gradle\\daemon\\7.5\\com.example.turismo.app-main-36:\\layout\\activity_crear_destino.xml"
+    },
+    {
+        "merged": "C:\\Users\\jse\\.gradle\\daemon\\7.5\\com.example.turismo.app-merged_res-34:\\layout_activity_editar_destino.xml.flat",
+        "source": "C:\\Users\\jse\\.gradle\\daemon\\7.5\\com.example.turismo.app-main-36:\\layout\\activity_editar_destino.xml"
+    },
+    {
+        "merged": "C:\\Users\\jse\\.gradle\\daemon\\7.5\\com.example.turismo.app-merged_res-34:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\jse\\.gradle\\daemon\\7.5\\com.example.turismo.app-main-36:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\jse\\.gradle\\daemon\\7.5\\com.example.turismo.app-merged_res-34:\\layout_activity_destinos_itinerario.xml.flat",
+        "source": "C:\\Users\\jse\\.gradle\\daemon\\7.5\\com.example.turismo.app-main-36:\\layout\\activity_destinos_itinerario.xml"
+    },
+    {
+        "merged": "C:\\Users\\jse\\.gradle\\daemon\\7.5\\com.example.turismo.app-merged_res-34:\\menu_bottom_navigation_menu.xml.flat",
+        "source": "C:\\Users\\jse\\.gradle\\daemon\\7.5\\com.example.turismo.app-main-36:\\menu\\bottom_navigation_menu.xml"
+    },
+    {
+        "merged": "com.example.turismo.app-merged_res-34:/layout_activity_crear_destino.xml.flat",
+        "source": "com.example.turismo.app-main-36:/layout/activity_crear_destino.xml"
+    },
+    {
+        "merged": "C:\\Users\\jse\\.gradle\\daemon\\7.5\\com.example.turismo.app-merged_res-34:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\jse\\.gradle\\daemon\\7.5\\com.example.turismo.app-main-36:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\jse\\.gradle\\daemon\\7.5\\com.example.turismo.app-merged_res-34:\\layout_item_itinerario_inicio.xml.flat",
+        "source": "C:\\Users\\jse\\.gradle\\daemon\\7.5\\com.example.turismo.app-main-36:\\layout\\item_itinerario_inicio.xml"
+    },
+    {
+        "merged": "C:\\Users\\jse\\.gradle\\daemon\\7.5\\com.example.turismo.app-merged_res-34:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\jse\\.gradle\\daemon\\7.5\\com.example.turismo.app-main-36:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\jse\\.gradle\\daemon\\7.5\\com.example.turismo.app-merged_res-34:\\mipmap-anydpi-v33_ic_launcher.xml.flat",
+        "source": "C:\\Users\\jse\\.gradle\\daemon\\7.5\\com.example.turismo.app-main-36:\\mipmap-anydpi-v33\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\jse\\.gradle\\daemon\\7.5\\com.example.turismo.app-merged_res-34:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\jse\\.gradle\\daemon\\7.5\\com.example.turismo.app-main-36:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\jse\\.gradle\\daemon\\7.5\\com.example.turismo.app-merged_res-34:\\drawable_icon_inicio.xml.flat",
+        "source": "C:\\Users\\jse\\.gradle\\daemon\\7.5\\com.example.turismo.app-main-36:\\drawable\\icon_inicio.xml"
+    },
+    {
+        "merged": "C:\\Users\\jse\\.gradle\\daemon\\7.5\\com.example.turismo.app-merged_res-34:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\jse\\.gradle\\daemon\\7.5\\com.example.turismo.app-main-36:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\jse\\.gradle\\daemon\\7.5\\com.example.turismo.app-merged_res-34:\\drawable_icon_subir.xml.flat",
+        "source": "C:\\Users\\jse\\.gradle\\daemon\\7.5\\com.example.turismo.app-main-36:\\drawable\\icon_subir.xml"
+    },
+    {
+        "merged": "C:\\Users\\jse\\.gradle\\daemon\\7.5\\com.example.turismo.app-merged_res-34:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\jse\\.gradle\\daemon\\7.5\\com.example.turismo.app-main-36:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\jse\\.gradle\\daemon\\7.5\\com.example.turismo.app-merged_res-34:\\layout_item_itinerario.xml.flat",
+        "source": "C:\\Users\\jse\\.gradle\\daemon\\7.5\\com.example.turismo.app-main-36:\\layout\\item_itinerario.xml"
+    },
+    {
+        "merged": "C:\\Users\\jse\\.gradle\\daemon\\7.5\\com.example.turismo.app-merged_res-34:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\jse\\.gradle\\daemon\\7.5\\com.example.turismo.app-main-36:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\jse\\.gradle\\daemon\\7.5\\com.example.turismo.app-merged_res-34:\\drawable_icon_eliminar.xml.flat",
+        "source": "C:\\Users\\jse\\.gradle\\daemon\\7.5\\com.example.turismo.app-main-36:\\drawable\\icon_eliminar.xml"
+    },
+    {
+        "merged": "C:\\Users\\jse\\.gradle\\daemon\\7.5\\com.example.turismo.app-merged_res-34:\\drawable_rounder_edittext.xml.flat",
+        "source": "C:\\Users\\jse\\.gradle\\daemon\\7.5\\com.example.turismo.app-main-36:\\drawable\\rounder_edittext.xml"
+    },
+    {
+        "merged": "C:\\Users\\jse\\.gradle\\daemon\\7.5\\com.example.turismo.app-merged_res-34:\\layout_activity_destinos_itinerarios_propios.xml.flat",
+        "source": "C:\\Users\\jse\\.gradle\\daemon\\7.5\\com.example.turismo.app-main-36:\\layout\\activity_destinos_itinerarios_propios.xml"
+    },
+    {
+        "merged": "C:\\Users\\jse\\.gradle\\daemon\\7.5\\com.example.turismo.app-merged_res-34:\\layout_item_itinerario_propio.xml.flat",
+        "source": "C:\\Users\\jse\\.gradle\\daemon\\7.5\\com.example.turismo.app-main-36:\\layout\\item_itinerario_propio.xml"
+    },
+    {
+        "merged": "C:\\Users\\jse\\.gradle\\daemon\\7.5\\com.example.turismo.app-merged_res-34:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\jse\\.gradle\\daemon\\7.5\\com.example.turismo.app-main-36:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\jse\\.gradle\\daemon\\7.5\\com.example.turismo.app-merged_res-34:\\drawable_icon_editar.xml.flat",
+        "source": "C:\\Users\\jse\\.gradle\\daemon\\7.5\\com.example.turismo.app-main-36:\\drawable\\icon_editar.xml"
+    },
+    {
+        "merged": "C:\\Users\\jse\\.gradle\\daemon\\7.5\\com.example.turismo.app-merged_res-34:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\jse\\.gradle\\daemon\\7.5\\com.example.turismo.app-main-36:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\jse\\.gradle\\daemon\\7.5\\com.example.turismo.app-merged_res-34:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\jse\\.gradle\\daemon\\7.5\\com.example.turismo.app-main-36:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\jse\\.gradle\\daemon\\7.5\\com.example.turismo.app-merged_res-34:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\jse\\.gradle\\daemon\\7.5\\com.example.turismo.app-main-36:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\jse\\.gradle\\daemon\\7.5\\com.example.turismo.app-merged_res-34:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\jse\\.gradle\\daemon\\7.5\\com.example.turismo.app-main-36:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\jse\\.gradle\\daemon\\7.5\\com.example.turismo.app-merged_res-34:\\layout_item_destino.xml.flat",
+        "source": "C:\\Users\\jse\\.gradle\\daemon\\7.5\\com.example.turismo.app-main-36:\\layout\\item_destino.xml"
+    },
+    {
+        "merged": "C:\\Users\\jse\\.gradle\\daemon\\7.5\\com.example.turismo.app-merged_res-34:\\drawable_icon_itineraios.xml.flat",
+        "source": "C:\\Users\\jse\\.gradle\\daemon\\7.5\\com.example.turismo.app-main-36:\\drawable\\icon_itineraios.xml"
+    },
+    {
+        "merged": "C:\\Users\\jse\\.gradle\\daemon\\7.5\\com.example.turismo.app-merged_res-34:\\layout_activity_tus_itinerarios.xml.flat",
+        "source": "C:\\Users\\jse\\.gradle\\daemon\\7.5\\com.example.turismo.app-main-36:\\layout\\activity_tus_itinerarios.xml"
+    },
+    {
+        "merged": "C:\\Users\\jse\\.gradle\\daemon\\7.5\\com.example.turismo.app-merged_res-34:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\jse\\.gradle\\daemon\\7.5\\com.example.turismo.app-main-36:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\jse\\.gradle\\daemon\\7.5\\com.example.turismo.app-merged_res-34:\\drawable_icon_buscar.xml.flat",
+        "source": "C:\\Users\\jse\\.gradle\\daemon\\7.5\\com.example.turismo.app-main-36:\\drawable\\icon_buscar.xml"
+    },
+    {
+        "merged": "C:\\Users\\jse\\.gradle\\daemon\\7.5\\com.example.turismo.app-merged_res-34:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\jse\\.gradle\\daemon\\7.5\\com.example.turismo.app-main-36:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\jse\\.gradle\\daemon\\7.5\\com.example.turismo.app-merged_res-34:\\layout_activity_editar_itinerario.xml.flat",
+        "source": "C:\\Users\\jse\\.gradle\\daemon\\7.5\\com.example.turismo.app-main-36:\\layout\\activity_editar_itinerario.xml"
+    },
+    {
+        "merged": "C:\\Users\\jse\\.gradle\\daemon\\7.5\\com.example.turismo.app-merged_res-34:\\layout_activity_registrar_usuario.xml.flat",
+        "source": "C:\\Users\\jse\\.gradle\\daemon\\7.5\\com.example.turismo.app-main-36:\\layout\\activity_registrar_usuario.xml"
+    },
+    {
+        "merged": "C:\\Users\\jse\\.gradle\\daemon\\7.5\\com.example.turismo.app-merged_res-34:\\layout_activity_buscar.xml.flat",
+        "source": "C:\\Users\\jse\\.gradle\\daemon\\7.5\\com.example.turismo.app-main-36:\\layout\\activity_buscar.xml"
+    },
+    {
+        "merged": "C:\\Users\\jse\\.gradle\\daemon\\7.5\\com.example.turismo.app-merged_res-34:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\jse\\.gradle\\daemon\\7.5\\com.example.turismo.app-main-36:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\jse\\.gradle\\daemon\\7.5\\com.example.turismo.app-merged_res-34:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\jse\\.gradle\\daemon\\7.5\\com.example.turismo.app-main-36:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\jse\\.gradle\\daemon\\7.5\\com.example.turismo.app-merged_res-34:\\drawable_icon_menu.xml.flat",
+        "source": "C:\\Users\\jse\\.gradle\\daemon\\7.5\\com.example.turismo.app-main-36:\\drawable\\icon_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\jse\\.gradle\\daemon\\7.5\\com.example.turismo.app-merged_res-34:\\menu_menu_usuario.xml.flat",
+        "source": "C:\\Users\\jse\\.gradle\\daemon\\7.5\\com.example.turismo.app-main-36:\\menu\\menu_usuario.xml"
+    },
+    {
+        "merged": "C:\\Users\\jse\\.gradle\\daemon\\7.5\\com.example.turismo.app-merged_res-34:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\jse\\.gradle\\daemon\\7.5\\com.example.turismo.app-main-36:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\jse\\.gradle\\daemon\\7.5\\com.example.turismo.app-merged_res-34:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\jse\\.gradle\\daemon\\7.5\\com.example.turismo.app-main-36:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\jse\\.gradle\\daemon\\7.5\\com.example.turismo.app-merged_res-34:\\layout_item_destino_propio.xml.flat",
+        "source": "C:\\Users\\jse\\.gradle\\daemon\\7.5\\com.example.turismo.app-main-36:\\layout\\item_destino_propio.xml"
+    },
+    {
+        "merged": "C:\\Users\\jse\\.gradle\\daemon\\7.5\\com.example.turismo.app-merged_res-34:\\menu_menu_publico.xml.flat",
+        "source": "C:\\Users\\jse\\.gradle\\daemon\\7.5\\com.example.turismo.app-main-36:\\menu\\menu_publico.xml"
+    },
+    {
+        "merged": "C:\\Users\\jse\\.gradle\\daemon\\7.5\\com.example.turismo.app-merged_res-34:\\layout_activity_crear_itinerario.xml.flat",
+        "source": "C:\\Users\\jse\\.gradle\\daemon\\7.5\\com.example.turismo.app-main-36:\\layout\\activity_crear_itinerario.xml"
+    }
+]

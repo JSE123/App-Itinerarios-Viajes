@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Turismo</string>
+    <string-array name="opcioines_privacidad">
+        <item>Público</item>
+        <item>Privado</item>
+    </string-array>
+</resources>
